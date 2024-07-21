@@ -1,58 +1,47 @@
-- 👋 Hi, I’m @MilliAngesom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MilliAngesom/MilliAngesom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 
 ### 👋 Hi, I'm Million Angesom!
+![Profile Photo](https://github.com/MilliAngesom/MilliAngesom/blob/main/profile_pic1.jpg)
 
 I'm a Robotics Software Engineer with a strong robotic systems software development and sensor integration background. Currently, I am contributing to advanced agricultural robotics at Farming Revolution in Germany, enhancing the efficiency and precision of field operations.
+
 
 ### 📚 Education
 
 - **MSc in Intelligent Field Robotic Systems** - University of Girona, Spain & University of Zagreb, Croatia (2022-2024)
+  <table>
+  <tr>
+    <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/ifros-thumb.png" alt="IFRoS" width="150"/></td>
+    <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/udg.png" alt="UdG" width="150"/></td>
+    <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/university_of_zagreb_logo.jpg" alt="UNIZG" width="150"/></td>
+    <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/FER_logo.jpg" alt="FER" width="150"/></td>
+  </tr>
+  </table>
+
 - **BSc in Electrical and Electronics Engineering** - Eritrea Institute of Technology, Asmara (2012-2017)
+  <table>
+  <tr>
+    <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/Eritrea_Institute_of_Technology_logo.jpg" alt="EIT" width="150"/></td>
+  </tr>
+  </table>
 
-### 💼 Professional Experience
 
-- **Robot Software Engineer** - Developed software for precise robot localization and engineered advanced path planning algorithms.
-- **Robot Localization Intern** - Enhanced the precision of robotic mapping and navigation through Visual Inertial Graph SLAM.
+
+### 👀 I’m interested in
+
+💞️ SLAM, Robot Manipulation, Motion Planning, Arial Robotics, Agricultural Robotics
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages**: Python, C, MATLAB
-- **Tools**: ROS, SCADA, MULTISM, GitHub, GitLab
+- **Programming Languages**: Python, C, C++, MATLAB
+- **Tools**: ROS, RViz, SCADA, MULTISM, GitHub, GitLab, Gazebo simulator, Stonefish simulator, OpenCV, PyTorch, GTSAM, Open3D, Point Cloud Library, OMPL, Py Trees, scikit-learn, numpy, Pandas
 - **Systems**: Unix, Linux, Windows
-
-### 🤖 Projects
-
-- **Visual Inertial Graph SLAM** - Improved robotic navigation and mapping precision.
-- **Agricultural Robot Localization** - Developed algorithms for optimized path planning in complex agricultural fields.
-
-Feel free to check out my [LinkedIn profile](www.linkedin.com/in/million-angesom-101b571a1) for more professional details or connect with me!
-
-### 🌱 I’m currently learning...
-
-- Advanced techniques in AI and machine learning applications in robotics.
-
-### 👨‍💻 Open Source Contributions
-
-- Contributions to various open-source projects in robotics and automation. [Here](#) is a link to my contributions.
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilliAngesom&show_icons=true)
 
-### 📫 How to reach me:
+### 📫 How to reach me: 
+Feel free to check out my LinkedIn profile for more professional details or connect with me!
 
 - **Email**: million.angesom1994@gmail.com
-- **LinkedIn**: [Million Angesom](www.linkedin.com/in/million-angesom-101b571a1)
+- **LinkedIn**: [Million Angesom](https://www.linkedin.com/in/million-angesom-101b571a1)
