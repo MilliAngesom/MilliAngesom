@@ -17,7 +17,7 @@ I'm a Robotics Software Engineer with a strong robotic systems software developm
   </tr>
   </table>
 
-- **BSc in Electrical and Electronics Engineering** - Eritrea Institute of Technology, Asmara (2012-2017)
+- **BSc in Electrical and Electronics Engineering** - Eritrea Institute of Technology, Eritrea (2012-2017)
   <table>
   <tr>
     <td><img src="https://github.com/MilliAngesom/MilliAngesom/blob/main/Eritrea_Institute_of_Technology_logo.jpg" alt="EIT" width="150"/></td>
