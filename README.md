@@ -36,9 +36,11 @@ I'm a Robotics Software Engineer with a strong robotic systems software developm
 - **Tools**: ROS, RViz, SCADA, MULTISM, GitHub, GitLab, Gazebo simulator, Stonefish simulator, OpenCV, PyTorch, GTSAM, Open3D, Point Cloud Library, OMPL, Py Trees, scikit-learn, numpy, Pandas
 - **Systems**: Unix, Linux, Windows
 
+<!--  
+
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilliAngesom&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MilliAngesom&show_icons=true)  -->
 
 ### 📫 How to reach me: 
 Feel free to check out my LinkedIn profile for more professional details or connect with me!
