@@ -2,7 +2,7 @@
 ### 👋 Hi, I'm Million Angesom!
 ![Profile Photo](https://github.com/MilliAngesom/MilliAngesom/blob/main/profile_pic1.jpg)
 
-I'm a Robotics Software Engineer with a strong robotic systems software development and sensor integration background. Currently, I am contributing to advanced agricultural robotics at Farming Revolution in Germany, enhancing the efficiency and precision of field operations.
+Robotics software engineer and PhD student at UQTR, providing robotics and autonomous systems software development services as an independent contractor. I work on simulation, perception, and system integration for robotics applications, including collaborations with international research teams and agritech projects.
 
 
 ### 📚 Education
