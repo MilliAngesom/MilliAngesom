@@ -7,7 +7,7 @@ Robotics software engineer and PhD student at UQTR, providing robotics and auton
 
 ### 📚 Education
 
-- **PhD in Mechanical Engineering (Robotics/SLAM)** - Université du Québec à Trois-Rivières (UQTR), Canada (2024-Present)
+- **PhD in Mechanical Engineering (Robotics/SLAM)** - Université du Québec à Trois-Rivières (UQTR), Canada (2025-Present)
 
 - **MSc in Intelligent Field Robotic Systems** - University of Girona, Spain & University of Zagreb, Croatia (2022-2024)
   <table>
@@ -35,7 +35,7 @@ Robotics software engineer and PhD student at UQTR, providing robotics and auton
 ### 🛠️ Technical Skills
 
 - **Programming Languages**: Python, C, C++, MATLAB
-- **Tools**: ROS, RViz, SCADA, Multisim, GitHub, GitLab, Gazebo simulator, Stonefish simulator, OpenCV, PyTorch, GTSAM, Open3D, Point Cloud Library, OMPL, Py Trees, scikit-learn, numpy, Pandas
+- **Tools**: ROS, ROS 2, RViz, SCADA, Multisim, GitHub, GitLab, Gazebo simulator, Stonefish simulator, NVIDIA Isaac Sim, OpenCV, PyTorch, GTSAM, Open3D, Point Cloud Library, Eigen, OMPL, Py Trees, scikit-learn, numpy, Pandas
 - **Systems**: Unix, Linux, Windows
 
 <!--  
