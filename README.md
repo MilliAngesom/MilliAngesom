@@ -46,4 +46,4 @@ Robotics software engineer and PhD student at UQTR, providing robotics and auton
 Feel free to check out my LinkedIn profile for more professional details or connect with me!
 
 - **Email**: million.angesom1994@gmail.com
-- **LinkedIn**: [Million Angesom Asefaw](www.linkedin.com/in/million-angesom-asefaw-101b571a1)
+- **LinkedIn**: [Million Angesom Asefaw](https://www.linkedin.com/in/million-angesom-asefaw-101b571a1)
